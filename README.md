@@ -1,4 +1,4 @@
 # Hex Binaries
 
-> Privacy and freedom.
+> Keep privacy and freedom.
 
